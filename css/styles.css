@@ -16,11 +16,11 @@ nav {
     display: inline-block
 }
 
-#home {
+#home-nav {
     text-align: left;
     width: 30%;
 }
-#about {
+#about-nav {
     text-align: right;
     width: 30%;
 }
