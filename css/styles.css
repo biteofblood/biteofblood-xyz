@@ -8,6 +8,10 @@ header {
     width: 50%;
 }
 
+nav {
+    width: 20%;
+}
+
 h1, h2, h3, p, ul, dl {
         text-align: center;
       }
