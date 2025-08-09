@@ -1,5 +1,5 @@
 body{ 
-    background-image: /assets/images/snowy banner gif.gif
+    background-image: ./assets/images/snowy banner gif.gif
 }
 
 header { 
@@ -10,6 +10,10 @@ header {
 
 nav {
     width: 20%;
+}
+
+#nav-bar {
+    display: inline-block
 }
 
 h1, h2, h3, p, ul, dl {
