@@ -16,6 +16,10 @@ nav {
     display: inline-block
 }
 
+#home {
+    text-align: left;
+}
+
 h1, h2, h3, p, ul, dl {
         text-align: center;
       }
