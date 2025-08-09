@@ -1,20 +1,17 @@
 body{ 
-    background-image: ./assets/images/snowy banner gif.gif
+    background-image: ../assets/images/snowy banner gif.gif
 }
 
 header { 
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    background-color: cornsilk;
+    width: 80%;
+    background-color: aliceblue;
     text-align: center;
 }
 
-nav {
-    width: 30%;
-}
-
-h1, h2, h3, p, ul, dl {
+body {
         text-align: center;
+        background-color: aliceblue;
       }
 
