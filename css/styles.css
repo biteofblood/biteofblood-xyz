@@ -18,8 +18,12 @@ nav {
 
 #home {
     text-align: left;
+    width: 30%;
 }
-
+#about {
+    text-align: right;
+    width: 30%;
+}
 h1, h2, h3, p, ul, dl {
         text-align: center;
       }
