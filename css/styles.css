@@ -3,7 +3,7 @@ body {
     font-family: "Libertinus Sans", sans-serif;
 }
 
-header, body { 
+header, main { 
     margin-left: auto;
     margin-right: auto;
     width: 80%;
