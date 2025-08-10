@@ -1,6 +1,7 @@
 body {
-    background-image: url("file:///biteofblood-xyz/assets/images/pixel.jpg")
+    background-image: url("file://biteofblood-xyz/assets/images/pixel.jpg");
     font-family: "Libertinus Sans", sans-serif;
+    background-color: lightslategray;
 }
 
 header, main { 
@@ -10,8 +11,22 @@ header, main {
     max-width: 500px;
     background-color: aliceblue;
     text-align: center;
-    padding: 20px
-}}
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:darkslategray;
+}
+
+main {
+    padding-top: 10px;
+}
+
+hr{
+    max-width: 400px;
+}
 
 h1 {
     padding-top: 10px;
@@ -23,8 +38,18 @@ img {
     margin-right: auto;
 }
 
-ul {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 200px;
+a {
+    color: darkslategray;
+}
+
+a:visited {
+    color: darkslategray;
+}
+
+a:hover {
+   color: darkslategray;
+}
+
+a:active {
+   color: darkslategray;
 }
