@@ -4,6 +4,10 @@ body {
     background-color: lightslategray;
 }
 
+h1 {
+    font-family: "Playwrite AU NSW", sans-serif;
+}
+
 header, main { 
     margin-left: auto;
     margin-right: auto;
