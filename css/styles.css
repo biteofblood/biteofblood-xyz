@@ -38,18 +38,6 @@ img {
     margin-right: auto;
 }
 
-a {
+a, a:visited, a:hover, a:active {
     color: darkslategray;
-}
-
-a:visited {
-    color: darkslategray;
-}
-
-a:hover {
-   color: darkslategray;
-}
-
-a:active {
-   color: darkslategray;
 }
