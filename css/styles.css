@@ -1,5 +1,5 @@
 body {
-    background-image: image("file://biteofblood-xyz/assets/images/pixel.jpg");
+    background-image: url("../assets/images/pixel.jpg");
     font-family: "Libertinus Sans", sans-serif;
     background-color: lightslategray;
 }
@@ -11,7 +11,7 @@ h1 {
 ul {
     list-style-type: circle;
     list-style-position: inside;
-    list-style-image: image("assets/images/Bell1_16px.png");
+    list-style-image: url("../assets/images/Bell1_12px.png");
     text-align: left;
     padding-left: 200px;
 }
@@ -19,7 +19,7 @@ ul {
 .link-list {
     list-style-type: circle;
     list-style-position: inside;
-    list-style-image: image("assets/images/Bell1_16px.png");
+    list-style-image: url("../assets/images/Bell1_12px.png");
     text-align: left;
     padding-left: 175px;
 }
