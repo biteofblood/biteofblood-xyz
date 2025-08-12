@@ -2,7 +2,7 @@ body {
     background-image: url("../assets/images/pixel.jpg");
     background-size: cover;
     font-family: "Libertinus Sans", sans-serif;
-    background-color: lightslategray;
+    background-color: midnightblue;
 }
 
 h1 {
@@ -17,7 +17,7 @@ ul {
     padding-left: 200px;
 }
 
-.link-list {
+.link-list, .connection-list {
     list-style-type: circle;
     list-style-position: inside;
     list-style-image: url("../assets/images/Bell1_12px.png");
@@ -30,7 +30,7 @@ header, main {
     margin-right: auto;
     width: 80%;
     max-width: 500px;
-    background-color: aliceblue;
+    background-color: lavender;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -38,7 +38,7 @@ header, main {
     padding-top: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
-    color:darkslategray;
+    color: midnightblue;
 }
 
 main {
@@ -60,5 +60,5 @@ img {
 }
 
 a, a:visited, a:hover, a:active {
-    color: darkslategray;
+    color: midnightblue;
 }
