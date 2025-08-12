@@ -5,6 +5,12 @@ body {
     background-color: midnightblue;
 }
 
+hr { 
+    height: 1px;
+    background-color:midnightblue;
+    border-color: midnightblue;
+}
+
 h1 {
     font-family: "Playwrite AU NSW", sans-serif;
 }
