@@ -8,6 +8,12 @@ h1 {
     font-family: "Playwrite AU NSW", sans-serif;
 }
 
+#nav-bar {
+    list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: image("assets/images/Bell1_16px")
+}
+
 header, main { 
     margin-left: auto;
     margin-right: auto;
