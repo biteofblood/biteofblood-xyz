@@ -11,7 +11,8 @@ h1 {
 #nav-bar {
     list-style-type: circle;
     list-style-position: inside;
-    list-style-image: image("assets/images/Bell1_16px")
+    list-style-image: image("assets/images/Bell1_16px");
+    text-align: left;
 }
 
 header, main { 
