@@ -1,5 +1,6 @@
 body {
     background-image: url("../assets/images/pixel.jpg");
+    background-size: cover;
     font-family: "Libertinus Sans", sans-serif;
     background-color: lightslategray;
 }
