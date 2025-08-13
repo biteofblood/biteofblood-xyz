@@ -68,3 +68,11 @@ img {
 a, a:visited, a:hover, a:active {
     color: midnightblue;
 }
+
+.pngtuber-title {
+    margin-bottom: -15px; 
+}
+
+.pngtuber-img {
+    margin-bottom: -15px;
+}
